@@ -1213,7 +1213,7 @@ cggl
 cgi
 CGI
 cgibin
-cgi-bin/
+cgi-bin
 cgi-win
 cgj
 ch
@@ -8033,3 +8033,4 @@ zoom
 zorro
 zune
 zxcvbnm
+scgi-bin
