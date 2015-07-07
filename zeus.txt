@@ -1,4 +1,3 @@
-
 /Gallery/IMAG0081.GIF
 /btn001/config.bin
 /bugzy/i.cfg
@@ -35,4 +34,3 @@
 /zs/cfg.bin
 /~am/szkolapanel/zs/config.bin
 /~update/serv/updtsys.bin
-
